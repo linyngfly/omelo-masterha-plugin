@@ -1,0 +1,52 @@
+{
+	"name": "omelo-masterha-plugin",
+	"version": "0.0.4",
+	"private": false,
+	"deprecated": false,
+	"description": "Wrap koa2 module as omelo status plugin.",
+	"engines": {
+		"node": "8.9.0"
+	},
+	"main": "index.js",
+	"author": {
+		"name": "linyngfly",
+		"email": "linyngfly@163.com"
+	},
+	"homepage": "https://github.com/linyngfly/omelo-masterha-plugin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/linyngfly/omelo-masterha-plugin.git"
+	},
+	"scripts": {
+		"test": "grunt"
+	},
+	"bugs": {
+		"url": "https://github.com/linyngfly/omelo-masterha-plugin/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/linyngfly/omelo-masterha-plugin#license"
+		}
+	],
+	"keywords": [
+		"omelo-masterha-plugin",
+		"omelo",
+		"framework",
+		"game",
+		"web",
+		"realtime",
+		"server"
+	],
+	"dependencies": {
+		"omelo-logger": ">=0.1.7",
+		"node-zookeeper-client": "0.2.0"
+	},
+	"devDependencies": {},
+	"contributors": [
+		{
+			"name": "linyngfly",
+			"email": "linyngfly@163.com"
+		}
+	]
+}
