@@ -1,6 +1,6 @@
 {
 	"name": "omelo-masterha-plugin",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"private": false,
 	"deprecated": false,
 	"description": "Wrap koa2 module as omelo status plugin.",
